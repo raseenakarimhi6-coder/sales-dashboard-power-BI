@@ -6,7 +6,7 @@ Interactive Power BI dashboards built to analyze regional retail performance (US
 
 ## 📄 View Dashboards (Browser Preview)
 * **[View US Furniture Sales Dashboard (PDF)](ras-US%20furniture%20(3).pdf)**
-* **[View Calendar Analytics Dashboard (PDF)](ras-calendar%20(1).pdf)**
+
 
 ## 🛠️ Tools & Techniques Used
 * **BI Tool:** Microsoft Power BI Desktop
